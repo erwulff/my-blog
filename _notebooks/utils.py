@@ -29,7 +29,10 @@ def process_df(df):
             sum = df.loc[country]
         data_dict[country] = sum
 
-    return pd.DataFrame(data_dict)
+    df = pd.DataFrame(data_dict)
+    df = df.rename(columns={'Korea, South': 'South Korea'})
+
+    return df
 
 
 def datetimeify(ind):
