@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Covid-19 analysis",
-            "content": "The visualizations presented here are based on data from the Johns Hopkins University&#39;s GitHub repository. . The source code of this app is published on GitHub here. . Total confirmed cases/deaths over time . . . New confirmed cases/deaths per day over time . . .",
+            "content": "The visualizations presented here are based on data from the Johns Hopkins University&#39;s GitHub repository. . The source code of this app is published on GitHub here. . Total confirmed cases/deaths . . . New cases/deaths per day . . .",
             "url": "https://erwulff.github.io/covid19-analysis/covid-analysis/",
             "relUrl": "/covid-analysis/",
             "date": " • Apr 5, 2020"
