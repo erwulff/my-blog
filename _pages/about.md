@@ -4,7 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Eric has  a passion for Data Science and Machine Learning and holds a Master of
+Science in Engineering Physics. He also likes particle accelerators.
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
