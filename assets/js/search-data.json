@@ -4,7 +4,7 @@
         "post0": {
             "title": "Covid-19 analysis",
             "content": "The visualizations presented here are based on data from the Johns Hopkins University&#39;s GitHub repository. . The source code of this app is published on GitHub here. . Total confirmed cases/deaths . . . New cases/deaths per day . . .",
-            "url": "https://erwulff.github.io/covid19-analysis/covid-analysis/",
+            "url": "https://erwulff.github.io/my-blog/covid-analysis/",
             "relUrl": "/covid-analysis/",
             "date": " • Apr 5, 2020"
         }
@@ -19,7 +19,7 @@
       ,"page1": {
           "title": "About Me",
           "content": "Eric has a passion for Data Science and Machine Learning and holds a Master of Science in Engineering Physics. He also likes particle accelerators. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
-          "url": "https://erwulff.github.io/covid19-analysis/about/",
+          "url": "https://erwulff.github.io/my-blog/about/",
           "relUrl": "/about/",
           "date": ""
       }
