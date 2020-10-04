@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Covid-19 analysis",
-            "content": "The visualizations presented here are based on data from the Johns Hopkins University&#39;s GitHub repository. . The source code of this app is published on GitHub here. . I have also created a Dash app with more interactivity. For instance you&#39;re able to choose which countries to include in the plots. The app is hosted on heroku and can be acessed by clicking here. . Total confirmed cases/deaths . New cases/deaths per day .",
+            "content": "The visualizations presented here are based on data from the Johns Hopkins University&#39;s GitHub repository. . The source code of this app is published on GitHub here. . I have also created a Dash app with more interactivity. For instance you&#39;re able to choose which countries to include in the plots. The app is hosted on heroku and can be acessed by clicking here. . pio.renderers.default . &#39;plotly_mimetype+notebook&#39; . Total confirmed cases/deaths . New cases/deaths per day .",
             "url": "https://erwulff.github.io/covid19-analysis/covid-analysis/",
             "relUrl": "/covid-analysis/",
             "date": " • Apr 5, 2020"
